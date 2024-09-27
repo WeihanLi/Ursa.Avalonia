@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Ursa.Demo.Browser",
   "resources": {
-    "hash": "sha256-qgsdxv7zO922l/LIIsi7JRv2v7pceDbiAe+x6jhYb64=",
+    "hash": "sha256-HBkrqsRdQnSgBb3eq9QpdrAH4UBINPumqvK15hBYGhg=",
     "jsModuleNative": {
       "dotnet.native.8.0.8.uc1je8j5yj.js": "sha256-IrL02CX4D2aq9WXhnDZCEuBL9mPmDIMKKBay+FmU0Xc="
     },
@@ -64,10 +64,10 @@
       "System.Text.RegularExpressions.wasm": "sha256-iaMXozxwe3gpcjoNiMmIXRbhBewbDy2QvL3mBaBrbD4=",
       "System.Threading.wasm": "sha256-VedLsSxM66GpkixjL27kak8Jk4eTbxW2wkmo93k8FYc=",
       "System.wasm": "sha256-ka1SPMSVGn53xDzeBa40FQCsprKEF+n+wpvvd1HyMNE=",
-      "Ursa.Demo.Browser.wasm": "sha256-+zv7LsVdANPHsZD+LQmVdrHgVs2MlP+8XQkLks/7/LY=",
-      "Ursa.Demo.wasm": "sha256-EuNnmlAbglkaYU18XwkegJZyEnxFXo4hDkqBotadjtk=",
-      "Ursa.Themes.Semi.wasm": "sha256-KZfJ+WzGIQ52ddT0bmnAcjpuBNDHX0M9RRPg8RYA8KU=",
-      "Ursa.wasm": "sha256-NPH8tB4xfZoejOPap3jIubze4YWu5e6/+YHz9JT6mdM="
+      "Ursa.Demo.Browser.wasm": "sha256-gj7w95l5SxYVfcwy8GAOmHheM70fRkFXQMGWnsHYQtA=",
+      "Ursa.Demo.wasm": "sha256-B7t1qyXzenWbtDk3bDdhZrvLG/slDZTTLgXJoxQ5CSc=",
+      "Ursa.Themes.Semi.wasm": "sha256-x46FjoaLgHYYpEk9P8KsHnE2eCTpSzdoE0kIxoSw06o=",
+      "Ursa.wasm": "sha256-IOCkRerRbuY7y5h0PtLH6qkj+tjJeHh3STTv8MgofjE="
     }
   },
   "cacheBootResources": true,
